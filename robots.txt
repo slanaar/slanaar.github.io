@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://slanaar.github.io/sitemap/sitemap.txt
